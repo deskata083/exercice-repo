@@ -1,4 +1,3 @@
 # exercice-repo
 Repo made for exercise
-
-Some ...
+We resolve the conflict
